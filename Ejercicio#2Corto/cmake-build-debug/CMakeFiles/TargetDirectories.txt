@@ -1,0 +1,3 @@
+/home/sofia/CLionProjects/Corto2-ESD/Ejercicio#2Corto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sofia/CLionProjects/Corto2-ESD/Ejercicio#2Corto/cmake-build-debug/CMakeFiles/Ejercicio_2Corto.dir
+/home/sofia/CLionProjects/Corto2-ESD/Ejercicio#2Corto/cmake-build-debug/CMakeFiles/edit_cache.dir
